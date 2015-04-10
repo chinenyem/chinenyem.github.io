@@ -1,0 +1,8 @@
+@import url(http://fonts.googleapis.com/css?family=Kaushan+Script);
+span.text_span {
+  font: 100% 'Kaushan Script', cursive;
+  font-size: 36px;
+  color: #6fcdac; }
+
+span.text_spantwo {
+  color: #6fcdac; }

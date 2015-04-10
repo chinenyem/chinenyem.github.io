@@ -1,0 +1,106 @@
+[
+	
+	{
+		"image": "images/portfolio/portfolio-2.jpg",
+		"name": "Generational Video",
+		"categories": ["Video"],
+		"url": "https://vimeo.com/115496603"
+	},
+	{
+		"image": "images/portfolio/portfolio-4.jpg",
+		"name": "Logo",
+		"categories": ["Graphics"],
+		"large": true
+		
+		
+	},
+	{
+		"image": "images/portfolio/portfolio-10.jpg",
+		"name": "Graphic Art",
+		"categories": ["Graphics"]
+		
+	},
+	{
+		"image": "images/portfolio/portfolio-6.jpg",
+		"name": "Logo",
+		"categories": [ "Graphics"],
+		"large": true
+	},
+	{
+		"image": "images/portfolio/portfolio-13.jpg",
+		"name": "Angularjs Eccomerce Store",
+		"categories": ["Web Development"],
+		"url": "https://fashionstore.firebaseapp.com/#/",
+		"large": true
+		
+	},
+	{
+		"image": "images/portfolio/portfolio-14.png",
+		"name": "Angularjs Chatroom",
+		"categories": ["Web Development"],
+		"url": "http://sillyfacechatroom.herokuapp.com/#/",
+		"large": true
+		
+	},
+	{
+		"image": "images/portfolio/portfolio-15.jpg",
+		"name": "New Life Bookstore Application",
+		"categories": ["Web Development"],
+		"url": "https://talkreserve.firebaseapp.com/#/login",
+		"large": true
+		
+	},
+	{
+		"image": "images/portfolio/portfolio-7.jpg",
+		"name": "Logo",
+		"categories": ["Graphics"]
+		
+	},
+	{
+		"image": "images/portfolio/portfolio-1.jpg",
+		"name": "Grace Video",
+		"categories": ["Video"],
+		"url": "https://vimeo.com/116453072",
+		"large": true
+	},
+	{
+		"image": "images/portfolio/portfolio-8.jpg",
+		"name": "Print CD cover",
+		"categories": [ "Print"]
+		
+	},
+	{
+		"image": "images/portfolio/portfolio-9.jpg",
+		"name": "Print CD cover",
+		"categories": ["Print"],
+		"large": true
+		
+	},
+	{
+		"image": "images/portfolio/portfolio-3.jpg",
+		"name": "Need A Change Video",
+		"categories": ["Video"],
+		"url": "https://vimeo.com/114449350"
+	},
+	{
+		"image": "images/portfolio/portfolio-5.jpg",
+		"name": "Logo",
+		"categories": ["Graphics"],
+		"large": true
+		
+	},
+	{
+		"image": "images/portfolio/portfolio-11.jpg",
+		"name": "Photography with Logo",
+		"categories": ["Graphics"]
+		
+	},
+	{
+		"image": "images/portfolio/portfolio-12.jpg",
+		"name": "Photography with Logo",
+		"categories": ["Graphics"]
+		
+	}
+	
+
+]
